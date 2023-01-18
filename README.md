@@ -33,9 +33,9 @@ Execute the program
     </head>
     <body>
         <img src="/static/images/logo.png" alt="saveethalogo" height="150" width ="1000"/>
-        <table border="2">
+         <table>
             <tr>
-                <td align="centre" colspan="10">Time-Table</td>
+                <td colspan="10">Time-Table</td>
             </tr>
             <tr>
                 <td colspan="5">REG NUMBER : 22002079</td>
@@ -64,6 +64,7 @@ Execute the program
                 <td>19EN614-Ananda Kumar</td>
                 <td>-</td>
                 <td>-</td>
+                
             </tr>
             <tr>
                 <td>TUESDAY</td>
@@ -115,6 +116,7 @@ Execute the program
             </tr>
         </table>
 
+
         <ol type="I">
             <li>19AI414 - Fundamentals Of Web Application Development</li>
             <li>19EN614-Japanese Basic</li>
@@ -128,4 +130,14 @@ Execute the program
     </body>
 </html>
 ```
-# OUPUT
+# OUTPUT :
+## webpage :
+
+![timetable](https://user-images.githubusercontent.com/102855266/213179019-4b173e96-05ff-478e-a1f3-4acf989b1d37.jpg)
+
+
+## html validator :
+
+![html validator](https://user-images.githubusercontent.com/102855266/213178955-744bfe89-8290-4c1d-8d8b-86b62eba9349.jpg)
+
+
