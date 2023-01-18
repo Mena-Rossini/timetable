@@ -140,4 +140,7 @@ Execute the program
 
 ![html validator](https://user-images.githubusercontent.com/102855266/213178955-744bfe89-8290-4c1d-8d8b-86b62eba9349.jpg)
 
+#RESULT:
+And thus we created a webpage displaying the timetable . 
+
 
